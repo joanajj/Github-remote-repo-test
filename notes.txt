@@ -1,0 +1,5 @@
+git init für den Start
+- git status → Status der Datei
+- **git add <file> →** den Namen des Files zb git add index.html.. das speichert alles im Git bzw die Änderungen
+- git add . → nimmt den gesamten Ordner
+- git commit -m “your commit message” → Notiz bei den Änderungen
